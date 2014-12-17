@@ -6,6 +6,5 @@ The flashplayer plugin is a cross-platform utility than plays animations, videos
 
    ```
    $ sudo add-apt-repository ppa:minos-archive/main
-   $ sudo apt-get update
-   $ sudo apt-get install mozilla-flashplayer
+   $ sudo apt-get update && sudo apt-get install mozilla-flashplayer
    ```
