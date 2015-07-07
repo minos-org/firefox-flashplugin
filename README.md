@@ -15,7 +15,7 @@ The flashplayer plugin is a cross-platform utility than plays animations, videos
 2. Install:
 
    ```
-   $ sudo apt-get update && sudo apt-get install mozilla-flashplayer
+   $ sudo apt-get update && sudo apt-get install firefox-flashplugin
    ```
 
 3. Enjoy ☺!
